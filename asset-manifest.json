@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/newsletter-frontendmentor-challenge/static/css/main.53697295.css",
+    "main.js": "/newsletter-frontendmentor-challenge/static/js/main.dd7b3aca.js",
+    "static/js/453.de5efa1f.chunk.js": "/newsletter-frontendmentor-challenge/static/js/453.de5efa1f.chunk.js",
+    "static/media/illustration-sign-up-mobile.svg": "/newsletter-frontendmentor-challenge/static/media/illustration-sign-up-mobile.3f6f1c6d3e48045cb31a.svg",
+    "static/media/illustration-sign-up-desktop.svg": "/newsletter-frontendmentor-challenge/static/media/illustration-sign-up-desktop.ce2024babf0bc98a8862.svg",
+    "index.html": "/newsletter-frontendmentor-challenge/index.html",
+    "static/media/icon-success.svg": "/newsletter-frontendmentor-challenge/static/media/icon-success.1ad016255f85fa877dc6.svg",
+    "static/media/icon-list.svg": "/newsletter-frontendmentor-challenge/static/media/icon-list.5e317c030bb9f11a3343.svg",
+    "main.53697295.css.map": "/newsletter-frontendmentor-challenge/static/css/main.53697295.css.map",
+    "main.dd7b3aca.js.map": "/newsletter-frontendmentor-challenge/static/js/main.dd7b3aca.js.map",
+    "453.de5efa1f.chunk.js.map": "/newsletter-frontendmentor-challenge/static/js/453.de5efa1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53697295.css",
+    "static/js/main.dd7b3aca.js"
+  ]
+}
